@@ -1,8 +1,8 @@
-*
+/*
 
 !.gitignore
-!alacritty/*
-!i3/*
-!picom/*
-!polybar/*
+!/alacritty/*
+!/i3/*
+!/picom/*
+!/polybar/*
 
