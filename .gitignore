@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!alacritty/*
+!i3/*
+!picom/*
+!polybar/*
+
